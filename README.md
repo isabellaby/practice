@@ -6,3 +6,5 @@ writing words and stuff.
 Making changes in text editor.
 
 making changes in R studio
+
+made changes locally
